@@ -1,4 +1,4 @@
-some features in this sketch that have been developped and works:
+some features in this sketch that have been developped and do work:
 * ESP32 as AP
 * web server that serves an html file that allows uploading images
 * upload handler that writes the uploaded image from a client to a file
